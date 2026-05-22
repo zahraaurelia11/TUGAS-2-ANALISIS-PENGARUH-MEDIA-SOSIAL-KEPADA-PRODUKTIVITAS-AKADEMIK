@@ -275,6 +275,7 @@ Secara keseluruhan, hasil naive estimation menunjukkan bahwa media sosial lebih 
 | Laki-laki                   |                   0.799 |             0.195 |                 0.156 |
 | Perempuan                   |                   1.065 |             0.805 |                 0.857 |
 | **Total Weighted Estimate** |                       - |                 - |    **1.013 (101,3%)** |
+
 Berdasarkan hasil weighted estimate sebesar 1,013 atau 101,3%, menunjukkan bahwa responden perempuan memberikan kontribusi lebih besar dibandingkan laki-laki terhadap tingkat persetujuan mengenai pengaruh media sosial terhadap produktivitas akademik mahasiswa Program Studi Statistika.
 
 ### Perbandingan naive estimation dan weighted estimation 
@@ -286,6 +287,7 @@ Berdasarkan hasil weighted estimate sebesar 1,013 atau 101,3%, menunjukkan bahwa
 | X4       | 0,489            | 0,495               | Sedikit meningkat |
 | X5       | 0,511            | 0,520               | Sedikit meningkat |
 | X6       | 0,444            | 0,438               | Sedikit menurun   |
+
 Berdasarkan tabel perbandingan, nilai weighted estimation pada variabel X1, X2, X3, dan X6 mengalami sedikit penurunan dibandingkan naive estimation. Hal ini menunjukkan bahwa setelah dilakukan pembobotan, tingkat persetujuan responden terhadap pernyataan tersebut menjadi sedikit lebih rendah.
 
 Sementara itu, pada variabel X4 dan X5 terjadi sedikit peningkatan nilai weighted estimation dibandingkan naive estimation, yang menunjukkan bahwa setelah mempertimbangkan pembobotan, responden cenderung memberikan penilaian yang lebih positif terhadap pengaruh media sosial pada motivasi belajar dan kemampuan mengatur waktu akademik.
@@ -296,6 +298,7 @@ Sementara itu, pada variabel X4 dan X5 terjadi sedikit peningkatan nilai weighte
 | Laki-laki |        11 |      24,4% |
 | Perempuan |        34 |      75,6% |
 | **Total** |    **45** |   **100%** |
+
 Berdasarkan tabel distribusi gender, mayoritas responden dalam penelitian ini adalah perempuan dengan jumlah 34 orang atau 75,6%, sedangkan responden laki-laki berjumlah 11 orang atau 24,4%. Hal ini menunjukkan bahwa responden penelitian didominasi oleh mahasiswa perempuan.
 
 ### Diagram Batang Distribusi Gender
