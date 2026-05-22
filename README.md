@@ -216,6 +216,7 @@ Analisis deskriptif digunakan untuk menggambarkan distribusi jawaban responden m
 | P4. Media sosial meningkatkan motivasi belajar                   |   4 |  4 | 15 | 16 |  6 |
 | P5. Saya mampu mengatur waktu antara media sosial dan akademik   |   0 |  4 | 18 | 16 |  7 |
 | P6. Media sosial memengaruhi nilai atau prestasi akademik        |   0 |  8 | 17 | 13 |  7 |
+
 STS = Sangat Tidak Setuju
 TS = Tidak Setuju
 N = Netral
@@ -232,6 +233,7 @@ Berdasarkan tabel frekuensi jawaban responden, sebagian besar mahasiswa cenderun
 | X4       | Media sosial meningkatkan motivasi belajar              |                            22 |      48,9% | Rendah        |
 | X5       | Mampu mengatur waktu antara media sosial dan akademik   |                            23 |      51,1% | Cukup         |
 | X6       | Media sosial memengaruhi nilai atau prestasi akademik   |                            20 |      44,4% | Rendah        |
+
 Berdasarkan tabel frekuensi responden, pernyataan X1 mengenai media sosial membantu memperoleh informasi pembelajaran memperoleh persentase sebesar 82,2% dengan kategori sangat tinggi. Hal ini menunjukkan bahwa sebagian besar mahasiswa Program Studi Statistika merasakan manfaat media sosial sebagai sarana memperoleh informasi dan mendukung kegiatan pembelajaran.
 
 Pada pernyataan X2, sebesar 48,9% responden menyatakan setuju dan sangat setuju bahwa penggunaan media sosial membuat waktu belajar berkurang dengan kategori rendah. Hal ini menunjukkan bahwa pengaruh media sosial terhadap pengurangan waktu belajar masih tergolong rendah pada sebagian besar mahasiswa.
