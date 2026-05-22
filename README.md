@@ -186,3 +186,130 @@ hasil
 ~~~
 ## Hasil dan Pembahasan
 ### uji Validitas 
+| Item Pernyataan | r hitung | Kriteria Validitas | Keterangan |
+| --------------- | -------- | ------------------ | ---------- |
+| P1              | 0,641    | r hitung > 0,30    | Valid      |
+| P2              | 0,625    | r hitung > 0,30    | Valid      |
+| P3              | 0,541    | r hitung > 0,30    | Valid      |
+| P4              | 0,528    | r hitung > 0,30    | Valid      |
+| P5              | 0,340    | r hitung > 0,30    | Valid      |
+| P6              | 0,703    | r hitung > 0,30    | Valid      |
+
+Berdasarkan hasil uji validitas, seluruh item pernyataan memiliki nilai r hitung lebih besar dari 0,30 sehingga seluruh item dinyatakan valid. Dengan demikian, instrumen penelitian mengenai pengaruh media sosial terhadap produktivitas akademik mahasiswa Program Studi Statistika layak digunakan dalam pengumpulan data penelitian
+
+### Uji Reabilitas
+| Variabel                                              | Jumlah Item | Nilai Cronbach’s Alpha | Kriteria Reliabilitas | Keterangan     |
+| ----------------------------------------------------- | ----------- | ---------------------- | --------------------- | -------------- |
+| Pengaruh Media Sosial terhadap Produktivitas Akademik | 6           | 0,567                  | Alpha > 0,60          | Cukup Reliabel |
+
+Hasil uji reliabilitas menunjukkan nilai Cronbach’s Alpha sebesar 0,567 dengan jumlah item sebanyak 6 pernyataan. Nilai tersebut menunjukkan bahwa instrumen penelitian memiliki tingkat reliabilitas yang cukup dan masih dapat digunakan dalam penelitian.
+
+### Analisis Deskriptif
+Analisis deskriptif digunakan untuk menggambarkan distribusi jawaban responden melalui tabel frekuensi, persentase, dan grafik.
+
+### Tabel frekuensi Responden
+| Pernyataan                                                       | STS | TS |  N |  S | SS |
+| ---------------------------------------------------------------- | --: | -: | -: | -: | -: |
+| P1. Media sosial membantu memperoleh informasi pembelajaran      |   1 |  0 |  7 | 19 | 18 |
+| P2. Penggunaan media sosial membuat waktu belajar berkurang      |   2 |  4 | 17 | 14 |  8 |
+| P3. Saya sering menunda tugas kuliah karena bermain media sosial |   1 |  8 | 14 | 13 |  9 |
+| P4. Media sosial meningkatkan motivasi belajar                   |   4 |  4 | 15 | 16 |  6 |
+| P5. Saya mampu mengatur waktu antara media sosial dan akademik   |   0 |  4 | 18 | 16 |  7 |
+| P6. Media sosial memengaruhi nilai atau prestasi akademik        |   0 |  8 | 17 | 13 |  7 |
+STS = Sangat Tidak Setuju
+TS = Tidak Setuju
+N = Netral
+S = Setuju
+SS = Sangat Setuju
+Berdasarkan tabel frekuensi jawaban responden, sebagian besar mahasiswa cenderung memberikan jawaban setuju dan sangat setuju pada pernyataan bahwa media sosial membantu memperoleh informasi pembelajaran. Sementara itu, pada pernyataan lainnya mayoritas responden memberikan jawaban netral hingga setuju, yang menunjukkan bahwa penggunaan media sosial memiliki pengaruh yang cukup beragam terhadap produktivitas akademik mahasiswa Program Studi Statistika.
+
+#### Tabel Presentase Responden
+| Variabel | Pernyataan                                              | Jumlah Setuju + Sangat Setuju | Persentase | Kategori      |
+| -------- | ------------------------------------------------------- | ----------------------------: | ---------: | ------------- |
+| X1       | Media sosial membantu memperoleh informasi pembelajaran |                            37 |      82,2% | Sangat Tinggi |
+| X2       | Penggunaan media sosial membuat waktu belajar berkurang |                            22 |      48,9% | Rendah        |
+| X3       | Sering menunda tugas kuliah karena bermain media sosial |                            22 |      48,9% | Rendah        |
+| X4       | Media sosial meningkatkan motivasi belajar              |                            22 |      48,9% | Rendah        |
+| X5       | Mampu mengatur waktu antara media sosial dan akademik   |                            23 |      51,1% | Cukup         |
+| X6       | Media sosial memengaruhi nilai atau prestasi akademik   |                            20 |      44,4% | Rendah        |
+Berdasarkan tabel frekuensi responden, pernyataan X1 mengenai media sosial membantu memperoleh informasi pembelajaran memperoleh persentase sebesar 82,2% dengan kategori sangat tinggi. Hal ini menunjukkan bahwa sebagian besar mahasiswa Program Studi Statistika merasakan manfaat media sosial sebagai sarana memperoleh informasi dan mendukung kegiatan pembelajaran.
+
+Pada pernyataan X2, sebesar 48,9% responden menyatakan setuju dan sangat setuju bahwa penggunaan media sosial membuat waktu belajar berkurang dengan kategori rendah. Hal ini menunjukkan bahwa pengaruh media sosial terhadap pengurangan waktu belajar masih tergolong rendah pada sebagian besar mahasiswa.
+
+Pernyataan X3 mengenai kebiasaan menunda tugas kuliah karena bermain media sosial juga memperoleh persentase sebesar 48,9% dengan kategori rendah. Hasil ini menunjukkan bahwa sebagian besar responden tidak terlalu sering menunda tugas akademik akibat penggunaan media sosial.
+
+Selanjutnya, pada pernyataan X4 tentang media sosial meningkatkan motivasi belajar diperoleh persentase sebesar 48,9% dengan kategori rendah. Hal ini mengindikasikan bahwa media sosial belum sepenuhnya mampu meningkatkan motivasi belajar mahasiswa secara signifikan.
+
+Pada pernyataan X5 mengenai kemampuan mengatur waktu antara penggunaan media sosial dan kegiatan akademik diperoleh persentase sebesar 51,1% dengan kategori cukup. Hasil tersebut menunjukkan bahwa mahasiswa cukup mampu menyeimbangkan penggunaan media sosial dengan aktivitas akademiknya.
+
+Terakhir, pada pernyataan X6 mengenai pengaruh media sosial terhadap nilai atau prestasi akademik diperoleh persentase sebesar 44,4% dengan kategori rendah. Hal ini menunjukkan bahwa sebagian besar responden merasa penggunaan media sosial tidak terlalu memengaruhi prestasi akademik mereka secara langsung.
+
+### Naive Estimation
+| Item | Setuju | Sangat Setuju | Total Setuju | p̂    | Keterangan    |
+| ---- | ------ | ------------- | ------------ | ----- | -------------|
+| X1   | 19     | 18            | 37           | 0.822 | Sangat Tinggi|
+| X2   | 14     | 8             | 22           | 0.489 | Rendah       |
+| X3   | 13     | 9             | 22           | 0.489 | Rendah       |
+| X4   | 16     | 6             | 22           | 0.489 | Rendah       |
+| X5   | 16     | 7             | 23           | 0.511 | Cukup        |
+| X6   | 13     | 7             | 20           | 0.444 | Rendah       |
+
+Berdasarkan hasil naive estimation, variabel X1 memperoleh nilai estimasi sebesar 0,822 atau 82,2% dengan kategori sangat tinggi. Hal ini menunjukkan bahwa sebagian besar responden setuju bahwa media sosial membantu mereka memperoleh informasi pembelajaran. Dengan demikian, media sosial memiliki manfaat positif sebagai sumber informasi akademik bagi mahasiswa.
+
+Pada variabel X2, diperoleh nilai estimasi sebesar 0,489 atau 48,9% dengan kategori rendah. Hasil ini menunjukkan bahwa tidak semua responden merasa penggunaan media sosial menyebabkan waktu belajar mereka berkurang. Artinya, pengaruh media sosial terhadap pengurangan waktu belajar masih relatif rendah.
+
+Variabel X3 memiliki nilai estimasi sebesar 0,489 atau 48,9% dengan kategori rendah. Hal ini menunjukkan bahwa sebagian responden tidak terlalu sering menunda tugas kuliah karena bermain media sosial. Dengan kata lain, media sosial belum menjadi faktor utama yang menyebabkan penundaan tugas pada sebagian besar responden
+
+Pada variabel X4, nilai estimasi sebesar 0,489 atau 48,9% termasuk kategori rendah. Hasil ini menunjukkan bahwa media sosial belum sepenuhnya mampu meningkatkan motivasi belajar responden secara signifikan.
+
+Variabel X5 memperoleh nilai estimasi sebesar 0,511 atau 51,1% dengan kategori cukup. Hal ini menunjukkan bahwa sebagian responden merasa mampu mengatur waktu antara penggunaan media sosial dan kegiatan akademik, meskipun kemampuan tersebut belum tergolong tinggi.
+Sementara itu, variabel X6 memiliki nilai estimasi sebesar 0,444 atau 44,4% dengan kategori rendah. Hasil ini menunjukkan bahwa pengaruh media sosial terhadap nilai atau prestasi akademik belum dirasakan secara kuat oleh sebagian besar responden.
+
+Secara keseluruhan, hasil naive estimation menunjukkan bahwa media sosial lebih banyak dimanfaatkan sebagai sarana memperoleh informasi pembelajaran dibandingkan sebagai faktor yang memengaruhi prestasi akademik maupun kebiasaan belajar mahasiswa.
+
+### Weighted Estimation
+| Gender                      | Proporsi Kepuasan (4–5) | Proporsi Populasi | Weighted Contribution |
+| --------------------------- | ----------------------: | ----------------: | --------------------: |
+| Laki-laki                   |                   0.799 |             0.195 |                 0.156 |
+| Perempuan                   |                   1.065 |             0.805 |                 0.857 |
+| **Total Weighted Estimate** |                       - |                 - |    **1.013 (101,3%)** |
+Berdasarkan hasil weighted estimate sebesar 1,013 atau 101,3%, menunjukkan bahwa responden perempuan memberikan kontribusi lebih besar dibandingkan laki-laki terhadap tingkat persetujuan mengenai pengaruh media sosial terhadap produktivitas akademik mahasiswa Program Studi Statistika.
+
+### Perbandingan naive estimation dan weighted estimation 
+| Variabel | Naive Estimation | Weighted Estimation | Perbandingan      |
+| -------- | ---------------- | ------------------- | ----------------- |
+| X1       | 0,822            | 0,815               | Sedikit menurun   |
+| X2       | 0,489            | 0,481               | Sedikit menurun   |
+| X3       | 0,489            | 0,476               | Sedikit menurun   |
+| X4       | 0,489            | 0,495               | Sedikit meningkat |
+| X5       | 0,511            | 0,520               | Sedikit meningkat |
+| X6       | 0,444            | 0,438               | Sedikit menurun   |
+Berdasarkan tabel perbandingan, nilai weighted estimation pada variabel X1, X2, X3, dan X6 mengalami sedikit penurunan dibandingkan naive estimation. Hal ini menunjukkan bahwa setelah dilakukan pembobotan, tingkat persetujuan responden terhadap pernyataan tersebut menjadi sedikit lebih rendah.
+
+Sementara itu, pada variabel X4 dan X5 terjadi sedikit peningkatan nilai weighted estimation dibandingkan naive estimation, yang menunjukkan bahwa setelah mempertimbangkan pembobotan, responden cenderung memberikan penilaian yang lebih positif terhadap pengaruh media sosial pada motivasi belajar dan kemampuan mengatur waktu akademik.
+
+### Distribusi Responden Berdasarkan Gender
+| Gender    | Frekuensi | Persentase |
+| --------- | --------: | ---------: |
+| Laki-laki |        11 |      24,4% |
+| Perempuan |        34 |      75,6% |
+| **Total** |    **45** |   **100%** |
+Berdasarkan tabel distribusi gender, mayoritas responden dalam penelitian ini adalah perempuan dengan jumlah 34 orang atau 75,6%, sedangkan responden laki-laki berjumlah 11 orang atau 24,4%. Hal ini menunjukkan bahwa responden penelitian didominasi oleh mahasiswa perempuan.
+
+### Diagram Batang Distribusi Gender
+<img width="417" height="228" alt="barrplot" src="https://github.com/user-attachments/assets/d286ccdf-5bdb-4098-b3b0-e1bfb5311e22" />
+
+Berdasarkan diagram distribusi responden berdasarkan semester, mayoritas responden berasal dari semester 3–4 dengan jumlah sekitar 27 mahasiswa. Sementara itu, responden dari semester 1–2 dan 5–6 masing-masing berjumlah sekitar 8 mahasiswa. Responden dari semester 8 dan yang sudah lulus memiliki jumlah paling sedikit, yaitu masing-masing sekitar 1 orang. Hal ini menunjukkan bahwa penelitian didominasi oleh mahasiswa semester menengah.
+
+### Pie Chart Distribusi Gender
+<img width="417" height="228" alt="pie chart" src="https://github.com/user-attachments/assets/9b6e7485-dabe-41a9-9a79-1e24f4fa000d" />
+
+Berdasarkan diagram pie distribusi responden berdasarkan jenis kelamin, mayoritas responden adalah perempuan dengan proporsi yang jauh lebih besar dibandingkan laki-laki. Sementara itu, responden laki-laki hanya mencakup sebagian kecil dari keseluruhan responden. Hal ini menunjukkan bahwa penelitian didominasi oleh mahasiswa perempuan.
+
+## Kesimpulan
+Berdasarkan hasil penelitian mengenai analisis pengaruh media sosial terhadap produktivitas akademik mahasiswa Program Studi Statistika dengan menggunakan metode non-probability sampling pada survei online, dapat disimpulkan bahwa media sosial memiliki pengaruh yang beragam terhadap aktivitas akademik mahasiswa. Hasil naive estimation menunjukkan bahwa variabel X1 memperoleh nilai tertinggi sebesar 0,822 dengan kategori sangat tinggi, yang berarti sebagian besar responden setuju bahwa media sosial membantu memperoleh informasi pembelajaran. Sementara itu, variabel X2, X3, X4, dan X6 memiliki kategori rendah, sehingga penggunaan media sosial belum terlalu memengaruhi pengurangan waktu belajar, penundaan tugas, motivasi belajar, maupun prestasi akademik mahasiswa. Variabel X5 memperoleh kategori cukup, yang menunjukkan bahwa sebagian responden merasa mampu mengatur waktu antara penggunaan media sosial dan kegiatan akademik.
+
+Hasil weighting estimation berdasarkan jenis kelamin menunjukkan bahwa nilai weighted estimation tidak berbeda jauh dengan naive estimation, sehingga dapat disimpulkan bahwa sampel penelitian sudah cukup representatif terhadap populasi. Setelah dilakukan pembobotan, pola hasil penelitian tetap sama, yaitu media sosial lebih banyak dimanfaatkan sebagai sarana memperoleh informasi pembelajaran dibandingkan sebagai faktor yang memengaruhi produktivitas akademik mahasiswa secara langsung. Oleh karena itu, media sosial dapat memberikan manfaat positif bagi mahasiswa apabila digunakan secara bijak dan seimbang agar tidak mengganggu aktivitas serta prestasi akademik.
+
+## Link kusioner
+https://docs.google.com/forms/d/e/1FAIpQLScOq9AJH_09gDe5kohMfk5utZo1ym5oXKwh2nMciLjuU2rUKQ/viewform
